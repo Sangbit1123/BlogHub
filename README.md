@@ -331,7 +331,7 @@ This project is open source and available under the MIT License.
 
 ## 👤 Author
 
-**Prama** - Full-stack developer passionate about building scalable web applications
+**Sangbit Pramanick** - Backend developer passionate about building scalable web applications
 
 ## 🤝 Contributing
 
@@ -343,4 +343,4 @@ For issues, questions, or features requests, please open an issue on GitHub.
 
 ---
 
-**Made with ❤️ using FastAPI and PostgreSQL**
+**Made using FastAPI and PostgreSQL**
